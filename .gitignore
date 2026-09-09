@@ -1,3 +1,13 @@
+# Media files / Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+*.ico
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -152,7 +162,6 @@ activemq-data/
 .envrc
 .venv
 env/
-venv/
 ENV/
 env.bak/
 venv.bak/
